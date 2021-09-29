@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Drashidj
 - 👀 I’m interested in web development and coding.
-- 🌱 I’m currently learning advance java script...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me drashijaindj121@gmail.com
 
