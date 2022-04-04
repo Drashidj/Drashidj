@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Drashidj
-- 👀 I’m interested in web development and coding.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web development and coding.
 - 📫 How to reach me drashijaindj121@gmail.com
 
 <!---
